@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <declare-styleable name="myrationbar">
+    <attr name="hospacing" format="dimension" />
+    <attr name="statbit" format="reference" />
+    <attr name="selterstatbit" format="reference" />
+</declare-styleable>
+
+</resources>
